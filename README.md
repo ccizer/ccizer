@@ -20,6 +20,7 @@
 <a href="https://medium.com/@can.cizer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@can.cizer" height="30" width="40" /></a>
 </p>
 <!-- BLOG-POST-LIST:START -->
+- [Load Testing with Gatling](https://medium.com/dev-jam/load-testing-with-gatling-49f812e91814?source=rss-851db2001e71------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h4 align="left">Languages and Tools:</h4>
