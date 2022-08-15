@@ -16,6 +16,9 @@
 </div>
 
 ### Blogs posts
+<p align="left">
+<a href="https://medium.com/@can.cizer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@can.cizer" height="30" width="40" /></a>
+</p>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
