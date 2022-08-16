@@ -15,10 +15,12 @@
     <h4 align="center">A passionate software developer from Netherlands</h4>
 </div>
 
+### About me
+
+<p>Senior software engineer more than ten years of professional experience in variety of development and
+engineering positions like web application development, ITSM solutions software, business process analysis and integrations. Passionate about learning software development technologies and applying coding principles to create systems that are reliable and effective. Understanding the client requirements and meeting a company's organizational needs, communicating the progress of projects, and working as a team are core values in achieving long lasting business relationships and further success. </p>
+
 ### Blogs posts
-<p align="left">
-<a href="https://medium.com/@can.cizer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@can.cizer" height="30" width="40" /></a>
-</p>
 <!-- BLOG-POST-LIST:START -->
 - [Load Testing with Gatling](https://medium.com/dev-jam/load-testing-with-gatling-49f812e91814?source=rss-851db2001e71------2)
 <!-- BLOG-POST-LIST:END -->
